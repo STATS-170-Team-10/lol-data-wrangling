@@ -1,3 +1,6 @@
-data/1016version.csv
-data/subset.csv
+# File
 dataviz.rmd
+
+# Folder
+data/
+AutogluonModels/
